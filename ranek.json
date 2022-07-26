@@ -1,0 +1,526 @@
+{
+  "transacao": [
+    {
+      "comprador_id": "dev.alanfs@gmail.com",
+      "vendedor_id": "dev.alanfs@gmail.com",
+      "produto": {
+        "id": "smartphone",
+        "nome": "Smartphone1",
+        "usuario_id": "dev.alanfs@gmail.com",
+        "preco": "1799",
+        "vendido": "false",
+        "descricao": "Oportunidade iPhone",
+        "fotos": null
+      },
+      "endereco": {
+        "cep": "12345678",
+        "rua": "rua ali perto",
+        "numero": "663",
+        "bairro": "Pitangueira",
+        "cidade": "Salvador",
+        "estado": "BA"
+      },
+      "id": 1
+    }
+  ],
+  "usuario": [
+    {
+      "id": "dev.alanfs@gmail.com",
+      "nome": "Alan Freitas",
+      "email": "dev.alanfs@gmail.com",
+      "senha": "123",
+      "cep": "12345678",
+      "rua": "rua ali perto",
+      "numero": "663",
+      "bairro": "Pitangueira",
+      "cidade": "Salvador",
+      "estado": "BA"
+    },
+    {
+      "id": "sr_slash@hotmail.com",
+      "email": "sr_slash@hotmail.com",
+      "nome": "Alex Santos",
+      "senha": "1234",
+      "rua": "rua ali perto",
+      "cep": "12345678",
+      "numero": "25",
+      "estado": "BA",
+      "cidade": "Salvador"
+    },
+    {
+      "id": "taty@gmail.com",
+      "nome": "Tatiane Santos",
+      "email": "taty@gmail.com",
+      "senha": "123",
+      "cep": "42701840",
+      "rua": "Rua Martins de Oliveira",
+      "numero": "663",
+      "bairro": "Pitangueiras",
+      "cidade": "Lauro de Freitas",
+      "estado": "BA"
+    },
+    {
+      "id": "celi@gmail.com",
+      "nome": "Jusceli Freitas",
+      "email": "celi@gmail.com",
+      "senha": "123",
+      "cep": "42701840",
+      "rua": "Rua Martins de Oliveira",
+      "numero": "663",
+      "bairro": "Pitangueiras",
+      "cidade": "Lauro de Freitas",
+      "estado": "BA"
+    },
+    {
+      "id": "mario@gmail.com",
+      "nome": "Antonio Mário",
+      "email": "mario@gmail.com",
+      "senha": "456",
+      "cep": "42701840",
+      "rua": "Rua Martins de Oliveira",
+      "numero": "663",
+      "bairro": "Pitangueiras",
+      "cidade": "Lauro de Freitas",
+      "estado": "BA"
+    }
+  ],
+  "produto": [
+    {
+      "id": "smartphone",
+      "nome": "Smartphone1",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "1799",
+      "vendido": "false",
+      "descricao": "Oportunidade iPhone",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook3",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Este é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook4",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "5399",
+      "vendido": "false",
+      "descricao": "Notebook novinho",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone2",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "1799",
+      "vendido": "false",
+      "descricao": "Oportunidade iPhone",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook5",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Este é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook6",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "5399",
+      "vendido": "false",
+      "descricao": "Notebook novinho",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone31",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "1799",
+      "vendido": "false",
+      "descricao": "Oportunidade iPhone",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook7",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Este é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook8",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "5399",
+      "vendido": "false",
+      "descricao": "Notebook novinho",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone4",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "1799",
+      "vendido": "false",
+      "descricao": "Oportunidade iPhone",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook1",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Este é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook2",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "5399",
+      "vendido": "false",
+      "descricao": "Notebook novinho",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone1",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "1799",
+      "vendido": "false",
+      "descricao": "Oportunidade iPhone",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook3",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Este é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook4",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "5399",
+      "vendido": "false",
+      "descricao": "Notebook novinho",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Rouxinol",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "1799",
+      "vendido": "false",
+      "descricao": "Oportunidade iPhone",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook5",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Este é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook6",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "5399",
+      "vendido": "false",
+      "descricao": "Notebook novinho",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone32",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "1799",
+      "vendido": "false",
+      "descricao": "Oportunidade iPhone",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook7",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Este é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook8",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "5399",
+      "vendido": "false",
+      "descricao": "Notebook novinho",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone4",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "1799",
+      "vendido": "false",
+      "descricao": "Oportunidade iPhone",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook1",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Este é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook2",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "5399",
+      "vendido": "false",
+      "descricao": "Notebook novinho",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone1",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "1799",
+      "vendido": "false",
+      "descricao": "Oportunidade iPhone",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook3",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Este é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook4",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "5399",
+      "vendido": "false",
+      "descricao": "Notebook novinho",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone2",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "1799",
+      "vendido": "false",
+      "descricao": "Oportunidade iPhone",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook5",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Este é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook6",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "5399",
+      "vendido": "false",
+      "descricao": "Notebook novinho",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone33",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "1799",
+      "vendido": "false",
+      "descricao": "Oportunidade iPhone",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook7",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Este é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook8",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "5399",
+      "vendido": "false",
+      "descricao": "Notebook novinho",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone4",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "1799",
+      "vendido": "false",
+      "descricao": "Oportunidade iPhone",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook1",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Este é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook2",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "5399",
+      "vendido": "false",
+      "descricao": "Notebook novinho",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone1",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "1799",
+      "vendido": "false",
+      "descricao": "Oportunidade iPhone",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook3",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Este é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook4",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "5399",
+      "vendido": "false",
+      "descricao": "Notebook novinho",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone2",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "1799",
+      "vendido": "false",
+      "descricao": "Oportunidade iPhone",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook5",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Este é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook6",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "5399",
+      "vendido": "false",
+      "descricao": "Notebook novinho",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone34",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "1799",
+      "vendido": "false",
+      "descricao": "Oportunidade iPhone",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook7",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Este é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook8",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "5399",
+      "vendido": "false",
+      "descricao": "Notebook novinho",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone4",
+      "usuario_id": "dev.alanfs@gmail.com",
+      "preco": "1799",
+      "vendido": "false",
+      "descricao": "Oportunidade iPhone",
+      "fotos": null
+    },
+    {
+      "nome": "rg",
+      "preco": "44",
+      "descricao": "rfgfd",
+      "fotos": null,
+      "id": "wvPPQ0R"
+    },
+    {
+      "nome": "Bike",
+      "preco": "785",
+      "descricao": "Bike Caloi Vermelha",
+      "fotos": null,
+      "usuario_id": "sr_slash@hotmail.com",
+      "id": "bJ8Iokx"
+    },
+    {
+      "nome": "iPhone",
+      "preco": "1500",
+      "descricao": "nunca usado",
+      "fotos": null,
+      "usuario_id": "sr_slash@hotmail.com",
+      "id": "E5BE1nU"
+    }
+  ]
+}
